@@ -1,4 +1,4 @@
-# Hey there :wave:!
+# Hey there :wave:! I'm Shivam!
 - :nerd_face: I currently attend Vanderbilt University as a Computer Science major.
 - :school: I am a member of Vanderbilt Student Government and VandyHacks.
 - :computer: I am always open for and looking for internships.
