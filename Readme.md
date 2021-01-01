@@ -4,5 +4,6 @@
 - :computer: I am always open for and looking for internships.
 - :star2: My interests lie in software engineering, data science, and algorithmic development/testing.
 - :basketball: In my free time, I love to play and watch basketball so talk to me about any of that if you want!
+- My personal website! [https://shivam-vohra.github.io/shivam-vohra/](https://shivam-vohra.github.io/shivam-vohra/)
 
 [![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam-vohra&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
