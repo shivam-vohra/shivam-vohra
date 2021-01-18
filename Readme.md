@@ -1,7 +1,7 @@
 # Hey there :wave:! I'm Shivam!
 - :nerd_face: I currently attend Vanderbilt University as a Computer Science major.
-- :school: I am a member of Vanderbilt Student Government and VandyHacks.
-- :computer: I am always open for and looking for internships.
+- :school: I am a member of Vanderbilt Student Government, VandyHacks, and the Asian American Student Assocation.
+- :computer: I am always open for and looking for internships related to software development (mobile included) and data-related areas.
 - :star2: My interests lie in software engineering, data science, and algorithmic development/testing.
 - :basketball: In my free time, I love to play and watch basketball so talk to me about any of that if you want!
 - My personal website! [https://shivam-vohra.github.io/shivam-vohra/](https://shivam-vohra.github.io/shivam-vohra/)
